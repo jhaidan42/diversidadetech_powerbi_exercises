@@ -1,9 +1,15 @@
 # Atividade 1
 Arquivo a executar: Atividade_Aula2.pbix<br>
+Dataset: Covid_19_Countrywise_timeseries.csv<br>
 Visualizações com Cartão, Indicador e KPI:<br><br>
 ![print](https://user-images.githubusercontent.com/94374033/214334251-98ccf893-d2b7-4d61-aa4e-99983007886a.png)<br><br>
 # Atividade 2
 Arquivo a executar: Atividade_Aula3.pbix<br>
+Dataset: Covid_19_Countrywise_timeseries.csv<br>
 Visualizações com Filtros dinâmicos:<br><br>
 ![print2](https://user-images.githubusercontent.com/94374033/214334290-224b42ba-264e-4ff0-856b-d00def417f81.png)<br><br>
-Arquivo de dataset: Covid_19_Countrywise_timeseries.csv
+# Atividade 3
+Arquivo a executar: Atividade_Aula4.pbix<br>
+Dataset: Pasta Dataset_Delivery<br>
+Visualizações de dados fictícios de pedidos e entregas que foram processados pelo Delivery Center entre os meses de janeiro a abril de 2021:<br><br>
+![print3](https://user-images.githubusercontent.com/94374033/214980401-3a20df47-f7c6-4019-bff2-860117d65c80.png)<br><br>
