@@ -9,7 +9,8 @@ Dataset: Covid_19_Countrywise_timeseries.csv<br>
 Visualizações com Filtros dinâmicos:<br><br>
 ![print2](https://user-images.githubusercontent.com/94374033/214334290-224b42ba-264e-4ff0-856b-d00def417f81.png)<br><br>
 # Atividade 3
+Localização dos arquivos: [Pasta do Google Drive](https://drive.google.com/drive/folders/1YmtOv-Bha4MQ0LPWHuLtluMv0B2vX3dq?usp=sharing) (Arquivo muito grande e o github não permitiu upload)<br>
 Arquivo a executar: Atividade_Aula4.pbix<br>
-Dataset: Pasta Dataset_Delivery<br>
+Dataset: Dataset_Delivery.rar<br>
 Visualizações de dados fictícios de pedidos e entregas que foram processados pelo Delivery Center entre os meses de janeiro a abril de 2021:<br><br>
 ![print3](https://user-images.githubusercontent.com/94374033/214980401-3a20df47-f7c6-4019-bff2-860117d65c80.png)<br><br>
