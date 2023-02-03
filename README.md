@@ -25,3 +25,8 @@ Arquivo a executar: Atividade_Aula6.pbix<br>
 Dataset: netflix_titles_2021.csv<br>
 Visualizações de dados sobre filmes e séries da Netflix:<br><br>
 ![print6](https://user-images.githubusercontent.com/94374033/216615406-0aaabfe5-3268-45ee-97de-0012d312f17f.png)<br><br>
+# Atividade 6
+Arquivo a executar: Atividade_Aula7.pbix<br>
+Dashboard para análise de um site com dados do Google Analytics:<br><br>
+![print7.1](https://user-images.githubusercontent.com/94374033/216623442-82d10c3d-8f75-4a60-9a9b-8950187afdbb.png)<br><br>
+![print7.2](https://user-images.githubusercontent.com/94374033/216623446-6b11ef5a-6264-49a1-a5ae-bd8d78b6a9b3.png)<br><br>
