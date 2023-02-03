@@ -20,3 +20,8 @@ Arquivo a executar: Atividade_Aula5.pbix<br>
 Dataset: US_Crime_Data.csv<br>
 Visualizações de dados de crimes nos Estados Unidos da América:<br><br>
 ![print3](https://user-images.githubusercontent.com/94374033/215232425-1d38c59c-f0ae-4153-951b-b6f739cbd102.png)<br><br>
+# Atividade 5
+Arquivo a executar: Atividade_Aula6.pbix<br>
+Dataset: netflix_titles_2021.csv<br>
+Visualizações de dados sobre filmes e séries da Netflix:<br><br>
+![print6](https://user-images.githubusercontent.com/94374033/216615406-0aaabfe5-3268-45ee-97de-0012d312f17f.png)<br><br>
